@@ -1,0 +1,6 @@
+[otrs-ipfw]
+enabled = no
+filter = otrs
+action = bsd-ipfw
+         sendmail-whois-lines[name=otrs, logpath=/var/log/otrs.log]
+logpath = /var/log/otrs.log
