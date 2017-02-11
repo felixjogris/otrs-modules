@@ -4,7 +4,7 @@
     <Name>AuthFail</Name>
     <Version>1</Version>
     <Vendor>ogris.de</Vendor>
-    <URL>http://ogris.de/otrs/AuthFail</URL>
+    <URL>http://ogris.de/otrs/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
     <ChangeLog Date="2017-02-11" Version="1">first implementation</ChangeLog>
     <Description Lang="en">An Auth/CustomerAuth module that always fails.</Description>
