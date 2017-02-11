@@ -1,0 +1,1 @@
+To use these modules, go to Admin -&gt; SysConfig in your OTRS system, select <i>Framework</i> from the config groups dropdown, click on <i>Core::Package</i>, under <i>Package::RepositoryList</i> add a new entry, enter <i>http://ogris.de/otrs/</i> as key, and whatever you like as content. Don't forget to save by hitting <i>Update</i>.
