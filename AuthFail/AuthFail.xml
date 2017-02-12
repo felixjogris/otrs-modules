@@ -15,6 +15,8 @@
   <BuildHost>?</BuildHost>
   <Filelist>
     <File Permission="644" Location="Kernel/System/Auth/Fail.pm" />
+    <File Permission="644" Location="scripts/fail2ban/filter.d/otrs.local" />
+    <File Permission="644" Location="scripts/fail2ban/jail.d/otrs.local" />
   </Filelist>
   <DatabaseInstall/>
   <DatabaseUninstall/>
