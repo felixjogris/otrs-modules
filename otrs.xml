@@ -2,15 +2,16 @@
 <otrs_package_list version="1.0">
   <Package>
     <Name>AuthFail</Name>
-    <Version>1</Version>
+    <Version>2</Version>
     <Vendor>ogris.de</Vendor>
     <URL>http://ogris.de/otrs/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
+    <ChangeLog Date="2018-02-21" Version="2">framework 6.x compatibility</ChangeLog>
     <ChangeLog Date="2017-02-11" Version="1">first implementation</ChangeLog>
     <Description Lang="en">An Auth/CustomerAuth module that always fails.</Description>
     <Description Lang="de">Ein Auth/CustomerAuth Module, das immer fehlschlägt.</Description>
-    <Framework>5.x</Framework>
+    <Framework>6.x</Framework>
     <Filelist/>
-    <File>AuthFail-1.opm</File>
+    <File>AuthFail-2.opm</File>
   </Package>
 </otrs_package_list>
