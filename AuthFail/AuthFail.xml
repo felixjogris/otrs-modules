@@ -12,6 +12,7 @@
   <IntroInstall Lang="en" Type="post" Title="Thanks">Thank you for installing AuthFail.</IntroInstall>
   <IntroInstall Lang="de" Type="post" Title="Thanks">Danke, dass Sie AuthFail installiert haben.</IntroInstall>
   <Framework>6.x</Framework>
+  <Framework>5.x</Framework>
   <BuildDate>?</BuildDate>
   <BuildHost>?</BuildHost>
   <Filelist>

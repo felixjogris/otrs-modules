@@ -11,6 +11,7 @@
     <Description Lang="en">An Auth/CustomerAuth module that always fails.</Description>
     <Description Lang="de">Ein Auth/CustomerAuth Module, das immer fehlschlägt.</Description>
     <Framework>6.x</Framework>
+    <Framework>5.x</Framework>
     <Filelist/>
     <File>AuthFail-2.opm</File>
   </Package>
