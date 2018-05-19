@@ -4,7 +4,7 @@
     <Name>AuthFail</Name>
     <Version>2</Version>
     <Vendor>ogris.de</Vendor>
-    <URL>http://ogris.de/otrs/</URL>
+    <URL>https://ogris.de/otrs/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
     <ChangeLog Date="2018-02-21" Version="2">framework 6.x compatibility</ChangeLog>
     <ChangeLog Date="2017-02-11" Version="1">first implementation</ChangeLog>
